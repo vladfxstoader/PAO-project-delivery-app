@@ -4,11 +4,11 @@ Delivery app project, built using Java, JDBC and OOP principles, for the Advance
 
 ## Objects
 - Person
-- User
-- Driver
+  - User
+  - Driver
 - Product
-- Food
-- Beverage
+  - Food
+  - Beverage
 - Restaurant
 - Order
 
